@@ -1,0 +1,8 @@
+Name: dil
+ Roll: 3
+ account: 77
+ c_programming: 77
+ english: 77
+ project: 77
+ maths: 77
+ electronic: 77
